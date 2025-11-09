@@ -7,18 +7,13 @@ Bu proje, önceden tanımlanmış bir dizi API üzerinden hızlı ve eş zamanl�
 
 Projeyi yerel makinenizde kurmak ve çalıştırmak için aşağıdaki adımları izleyin.
 
-### 1. Dosyaları Hazırlama
+###  Kurulum Adımları;
 
-Öncelikle, projenizin ana dosyasını (`index.js` veya hangi adı verdiyseniz) ve `package.json` dosyasını aynı klasörde bulunduğundan emin olun.
+Aşağıdaki kodları terminale yapıştırarak başlatın daha sonralarında sadece 
 
-### 2. Bağımlılıkları Yükleme
-
-Terminalinizde (Komut İstemi, PowerShell, Terminal vb.) projenizin bulunduğu klasöre gidin ve bağımlılıkları yükleyin.
-
+1- cd Shinyuu-SMS-Spammer
+2- node index.js
+Yazarak başlatabilirsiniz.
 ```bash
-# Proje klasörüne git
-cd /yol/proje/klasorunuz
-
-# Bağımlılıkları yükle. 
-# Bu komut, 'postinstall' scripti sayesinde yükleme biter bitmez aracı otomatik olarak başlatır.
-npm install
+git clone https://github.com/luaxfy/Shinyuu-SMS-Spammer
+npm i
