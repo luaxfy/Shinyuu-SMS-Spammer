@@ -1,0 +1,22 @@
+{
+  "name": "proje-adi",
+  "version": "1.0.0",
+  "description": "Otomatik çalışan SMS aracı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "node index.js" 
+  },
+  "keywords": [
+    "sms",
+    "tool"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "https-proxy-agent": "^7.0.4",
+    "socks-proxy-agent": "^8.0.2",
+    "readline-sync": "^1.4.10"
+  }
+}
