@@ -15,5 +15,7 @@ Aşağıdaki kodları terminale yapıştırarak başlatın daha sonralarında sa
 2- node index.js
 Yazarak başlatabilirsiniz.
 ```bash
+pkg install nodejs -y
+pkg install git -y
 git clone https://github.com/luaxfy/Shinyuu-SMS-Spammer
 npm i
