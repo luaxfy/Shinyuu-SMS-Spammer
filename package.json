@@ -1,5 +1,5 @@
 {
-  "name": "proje-adi",
+  "name": "Shinyuu-Sms-Spammer",
   "version": "1.0.0",
   "description": "Otomatik çalışan SMS aracı",
   "main": "index.js",
@@ -19,4 +19,5 @@
     "socks-proxy-agent": "^8.0.2",
     "readline-sync": "^1.4.10"
   }
+
 }
