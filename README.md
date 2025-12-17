@@ -18,4 +18,5 @@ Yazarak başlatabilirsiniz.
 pkg install nodejs -y
 pkg install git -y
 git clone https://github.com/luaxfy/Shinyuu-SMS-Spammer
+cd Shinyuu-SMS-Spammer
 npm i
